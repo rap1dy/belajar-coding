@@ -1,6 +1,0 @@
-test
-test101
-test102
-test103
-aweuaweu
-belajar git
